@@ -1,8 +1,8 @@
-== Overview ==
+== About ==
 
-  *First of all, Feel free to submit bugs, but I know there are lots, it is an alpha.
-  *Second, this works just fine on unhacked phones, it will just show your jail root (/var/root/Media).
-  *For windows obviously, though it might be ported to linux under mono.
+  * First of all, Feel free to submit bugs, but I know there are lots, it is an alpha.
+  * Second, this works just fine on unhacked phones, it will just show your jail root (/var/root/Media).
+  * For windows obviously, though it might be ported to linux under mono.
 
 If anyone wants to work on the source with me, and knows C#, let me know through comments or email - I would love some help.
 
