@@ -24,9 +24,8 @@ unzip, run iPhoneDriveControl.exe.
   # Now you can use Windows Explorer or the command line, makes no diff.
 
 
-=== Screenshots ===
+== Screenshots ==
 
 http://img503.imageshack.us/img503/4798/image1py7.png
 
 http://img510.imageshack.us/img510/1797/image1jc5.png
-
