@@ -11,8 +11,6 @@ Though the code for the iPhoneFS is GPLv3, the CIFS server implementation is not
 Once I get the bugs worked out, it will run as a windows service, so you have the drive whenever you plug in your iPhone.
 
 
-=== Screenshots ===
-
 
 == Simple Instructions ==
 
@@ -24,3 +22,11 @@ unzip, run iPhoneDriveControl.exe.
   # The drive letter will be printed to the Trace window.
   # The drive letter will be mapped to the phone's filesystem.
   # Now you can use Windows Explorer or the command line, makes no diff.
+
+
+=== Screenshots ===
+
+http://img503.imageshack.us/img503/4798/image1py7.png
+
+http://img510.imageshack.us/img510/1797/image1jc5.png
+
