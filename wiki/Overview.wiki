@@ -1,3 +1,6 @@
+== Download Updated 08-31-07 ==
+
+
 == About ==
 
   * First of all, Feel free to submit bugs, but I know there are lots, it is an alpha.
